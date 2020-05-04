@@ -1,7 +1,8 @@
 # SQL_Practica_4.3_Videoclub
 Realiza el diseño físico para el siguiente modelo relacional. Asigna el tipo de datos que consideres más adecuado.
 Realiza el diseño poniendo nombres a las restricciones.
-![Alt text](https://github.com/q92helea/SQL_Practica_4.3_Videoclub/blob/master/Videoclub(f%C3%ADsico).png? raw=true "Módelo Relacional de un Videoclub")
+
+![Alt text](https://github.com/q92helea/SQL_Practica_4.3_Videoclub/blob/master/Videoclub(f%C3%ADsico).png "Módelo Relacional de un Videoclub")
 Restricciones:
 
 No pueden ser nulos los siguientes campos: Nombre de Socio, Título de Película.
